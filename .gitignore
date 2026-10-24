@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.db
+.env
+*.csv
+scrape_quotes.py
+check_key.py
+my_scrape.py
+03_fetch_trades_original.py
+04_clean_trades_original.py
